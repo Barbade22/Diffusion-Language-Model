@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **LLDM Paper**: [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217)
+- **LLDM Paper**: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 - **Dataset**: Custom OCR from 110+ Marathi agricultural textbooks
 - **Inspiration**: Large Language Diffusion Models research
 - **Community**: Open source ML research community
